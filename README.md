@@ -6,7 +6,7 @@
 
 請到 [Releases](https://github.com/chenisan/13soul-video-engine-student/releases/latest) 下載最新版：
 
-- `13SoulMU Student Setup 2.0.3.exe`
+- `13SoulMU.Student.Setup.2.0.3.exe`
 - 系統需求：Windows 10／11 x64
 
 > 目前安裝程式尚未購買程式碼簽章憑證。Windows SmartScreen 可能顯示「Windows 已保護您的電腦」。請只從本 repository 的 Releases 下載，並用發布頁提供的 SHA-256 核對檔案。

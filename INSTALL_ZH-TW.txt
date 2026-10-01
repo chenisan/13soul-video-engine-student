@@ -1,0 +1,10 @@
+13SoulMU Student 2.0.3（Windows x64）
+
+1. 從官方 GitHub Releases 下載「13SoulMU.Student.Setup.2.0.3.exe」。
+2. 如 Windows SmartScreen 顯示警告，請先核對發布頁上的 SHA-256；目前安裝程式尚未數位簽章。
+3. 執行安裝程式並完成安裝。
+4. 開啟 13SoulMU Student；不需登入，也不需輸入 API Key。
+5. 建立專案、匯入影片或音訊。開啟「字幕」面板，按「自動字幕」即可離線辨識；不必另外安裝 FFmpeg、Whisper 或模型。
+6. 自動字幕可能有錯字，完成後請自行校對。一般電腦會使用 CPU 辨識，所需時間依影片長度和電腦效能而異。
+
+這份學生版沒有配音、變聲、雲端 AI 生圖／生影片、分鏡板或前製功能。
