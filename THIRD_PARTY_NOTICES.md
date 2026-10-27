@@ -1,8 +1,8 @@
 # Third-Party Notices
 
-13SoulMU Student includes or invokes third-party software distributed under
+13SoulMU Standard includes or invokes third-party software distributed under
 separate licenses. Those licenses apply only to their respective components
-and do not change the proprietary license of 13SoulMU Student.
+and do not change the proprietary license of 13SoulMU Standard.
 
 ## FFmpeg
 
@@ -22,7 +22,7 @@ shipped in version 2.0.3 is the Gyan.dev 6.1.1 essentials build and reports
 - GPLv3 text: https://www.gnu.org/licenses/gpl-3.0.txt
 
 FFmpeg is run as a separate process. No FFmpeg source code is incorporated into
-the proprietary 13SoulMU Student application.
+the proprietary 13SoulMU Standard application.
 
 For at least three years after the release of version 2.0.3, the distributor
 will provide a copy of the complete corresponding source available for the

@@ -1,1 +1,1 @@
-945760104ddbe2963ce3e5b71ef8d352fd2d0bff170e5543f73072e84f620c05  13SoulMU.Student.Setup.2.1.0.exe
+90ce94870f756f0f7b22b4108c7a3752030ffc5bcff119f37d1588d1bb9c3d03  13SoulMU.Standard.Setup.2.1.1.exe
